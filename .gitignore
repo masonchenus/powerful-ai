@@ -12,7 +12,10 @@ bin-release/
 *.air
 *.ipa
 *.apk
-
+# API keys & secrets
+*.env
+*.env.local
+*.toml
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
